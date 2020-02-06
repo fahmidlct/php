@@ -21,4 +21,10 @@ function to_week($hari = '') {
   
 }
 
+
+//cara penggunaan
+echo to_week(27);
+
+//hasil : 3 minggu 6 hari
+
 ?>
